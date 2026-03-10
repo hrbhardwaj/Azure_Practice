@@ -1,4 +1,4 @@
-#just for checking 
+
 
 provider "azurerm" {
   features {}
